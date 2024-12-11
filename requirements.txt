@@ -1,0 +1,6 @@
+streamlit
+numpy
+matplotlib
+networkx
+pandas
+plotly
